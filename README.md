@@ -22,4 +22,4 @@ Se implementó un `Pipeline` que realiza:
   Compararía el modelo con una Regresión Lineal simple y añadiría gráficos de importancia de características.
 
 ---
-**Autor:** Maykel [Tu Apellido]
+**Autor:** Maykel Santos
