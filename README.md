@@ -2,7 +2,6 @@
 
 Esta aplicación utiliza Machine Learning para predecir el salario de profesionales basado en su perfil demográfico y laboral, ofreciendo una **visualización dinámica** para comparar resultados en tiempo real.
 
-## 📸 Demo Visual
 
 
 ## 🚀 Características de la Versión Interactiva
@@ -20,6 +19,8 @@ Se implementó un `Pipeline` que realiza:
 1. **Imputación:** Manejo de valores nulos (mediana para números, valor más frecuente para categorías).
 2. **Codificación:** Transformación de variables de texto a numéricas con `OneHotEncoder`.
 3. **Regresión:** Entrenamiento del modelo RandomForest.
+## 📸 Demo Visual
+![Dashboard Interactivo](https://raw.githubusercontent.com/Maykel-dev/salary-predictor-web-app/main/captura.png)
 
 ## 🧠 Reflexión
 * **¿Qué característica influye más en el salario?**
